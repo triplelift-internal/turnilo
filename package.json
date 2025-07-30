@@ -1,6 +1,6 @@
 {
   "name": "turnilo",
-  "version": "1.41.0",
+  "version": "1.41.0-01",
   "description": "Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot",
   "keywords": [
     "turnilo",
@@ -10,12 +10,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allegro/turnilo.git"
+    "url": "git+https://github.com/triplelift-internal/turnilo.git"
   },
   "bugs": {
-    "url": "https://github.com/allegro/turnilo/issues"
+    "url": "https://backstage.triplelift.net/jira-ticket"
   },
-  "homepage": "https://allegro.github.io/turnilo",
+  "homepage": "https://triplelift.github.io/turnilo",
   "license": "Apache-2.0",
   "bin": {
     "turnilo": "./bin/turnilo"
